@@ -25,6 +25,10 @@ h3 {
     font-weight: 00;
 }
 
+a.names{
+    color:black
+}
+
 a {
     color:green
 }
